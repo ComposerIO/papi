@@ -4,10 +4,13 @@
 api
 ===
 
-The Composer.io API (ping.fm drop in replacement)
+The Composer.io API is becoming a ping.fm drop in replacement.
+
+There are some big parts missing, so we're only supporting about 20% of the functionality,
+but for weping for example, yes, it's a drop-in replacement.
 
 
-The Composer.io
+The API host is **http://papi.cmp.sr/**
 
 
 Clients
