@@ -10,7 +10,10 @@ There are some big parts missing, so we're only supporting about 20% of the func
 but for weping for example, yes, it's a drop-in replacement.
 
 
-The API host is **http://papi.cmp.sr/**
+The API host is **http://papi.cmp.sr/** (this is an identical number of characters as api.ping.fm,
+so you could try to hack binary Ping FM code to work with Composer).
+
+In the future we might have a more modern API at api.cmp.sr.
 
 
 Clients
