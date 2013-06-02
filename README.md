@@ -1,4 +1,4 @@
-**[Composer.io](http://composer.io)** is an website that lets you post status updates to many social networks at once.
+**[Composer.io](http://composer.io)** is a website that lets you post status updates to many social networks at once.
 
 
 Ping api
