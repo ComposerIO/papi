@@ -1,19 +1,28 @@
 **[Composer.io](http://composer.io)** is an website that lets you post status updates to many social networks at once.
 
 
-api
+Ping api
 ===
 
-The Composer.io API is becoming a ping.fm drop in replacement.
+The Composer.io Ping API is becoming a ping.fm drop in replacement.
 
-There are some big parts missing, so we're only supporting about 20% of the functionality,
-but for weping for example, yes, it's a drop-in replacement.
+The currently implemented methods are:
+* user.services
+* user.key
+* user.latest
+* user.post
 
+It's been lightly tested with WePing and Pingdroid (using a hosts file hack) and has been used successfully with both clients.
 
 The API host is **http://papi.cmp.sr/** (this is an identical number of characters as api.ping.fm,
 so you could try to hack binary Ping FM code to work with Composer).
 
 In the future we might have a more modern API at api.cmp.sr.
+
+Questions
+------
+
+* What are triggers? How did they work?
 
 
 Clients
