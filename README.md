@@ -28,16 +28,16 @@ Questions
 Clients
 ------
 
-https://code.google.com/p/pingboard/
-https://code.google.com/p/pingr/
-http://www.splitbrain.org/blog/2010-02/11-weping_a_multi_user_ping.fm_client
+* https://code.google.com/p/pingboard/
+* https://code.google.com/p/pingr/
+* http://www.splitbrain.org/blog/2010-02/11-weping_a_multi_user_ping.fm_client
 
 Plugins
 --------
-Pidgin http://code.google.com/p/pidgin-ping/
-WordPress https://code.google.com/p/publish2pingfm/
-Joomla https://code.google.com/p/plg-pingfm/
-ActionScript https://code.google.com/p/as3pingfm/
+* Pidgin http://code.google.com/p/pidgin-ping/
+* WordPress https://code.google.com/p/publish2pingfm/
+* Joomla https://code.google.com/p/plg-pingfm/
+* ActionScript https://code.google.com/p/as3pingfm/
 
 ### Drupal ###
 https://drupal.org/project/pingfm
