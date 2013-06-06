@@ -43,6 +43,7 @@ Plugins
 https://drupal.org/project/pingfm
 Issue: https://drupal.org/node/1678004
 
+
 Libraries
 ---------
 
@@ -51,6 +52,10 @@ has some tests: https://github.com/Oshuma/pingfm/blob/master/spec/pingfm/client_
 
 https://code.google.com/p/pyngfm/
 see also http://technicae.cogitat.io/2009/09/twisted-pingfm-client.html
+
+
+### Ruby
+https://github.com/phillc/ping.fm
 
 Find more ping.fm code
 ---------------------------
